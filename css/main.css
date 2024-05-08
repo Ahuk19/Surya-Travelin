@@ -355,7 +355,7 @@ body {
 }
 
 .copy {
-  text-color: #949090;
+  color: #949090;
   font-family: "poppins", sans-serif;
   font-weight: 300;
   font-size: smaller;
@@ -437,13 +437,6 @@ body {
 
   .mycol1 .mytext .mycontainer p {
     font-size: small;
-  }
-
-  .mycol2 {
-    background-image: url(../image/hero.jpg);
-    background-position: center;
-    background-size: cover;
-    z-index: -1;
   }
 
   /* hero end */
