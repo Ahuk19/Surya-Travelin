@@ -440,7 +440,7 @@ body {
   }
 
   .mycol2 {
-    background-image: url(./image/hero.jpg);
+    background-image: url(../image/hero.jpg);
     background-position: center;
     background-size: cover;
     z-index: -1;
